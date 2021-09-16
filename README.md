@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @kartik1502
+- 👀 I’m interested in Data scaience and Machine Learning 
+- 🌱 I’m currently learning Python and also going through Competative Programming
+- 📫 How to reach me https://www.linkedin.com/in/karthik-kulkarni-0936ab1b9/
+
+<!---
+kartik1502/kartik1502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
