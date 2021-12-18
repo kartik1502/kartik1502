@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kartik1502
+- 👋 Hi, I’m @Karthik Kulkarni
 - 👀 I’m interested in Data scaience and Machine Learning 
 - 🌱 I’m currently learning Python and also going through Competative Programming
 - 📫 How to reach me https://www.linkedin.com/in/karthik-kulkarni-0936ab1b9/
