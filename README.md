@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karthik Kulkarni
-- 👀 I’m interested in Data scaience and Machine Learning 
-- 🌱 I’m currently learning Python and also going through Competative Programming
+- 👀 I’m interested in Front-end Web Development
+- 🌱 I’m currently learning Competative Programming
 - 📫 How to reach me https://www.linkedin.com/in/karthik-kulkarni-0936ab1b9/
 
 <!---
