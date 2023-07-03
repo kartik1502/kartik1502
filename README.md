@@ -18,7 +18,7 @@
 
 # 📊 What I did, till nw....
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kartik1502&theme=radical&hide_border=false)<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartik1502&show_icons=true&theme=transparent)
+![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartik1502&show_icons=true&rank_icon=github&include_all_commits=true&theme=radical)
 ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartik1502&show_icons=true&rank_icon=github&include_all_commits=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik1502&theme=radical)
