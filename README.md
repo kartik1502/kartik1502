@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I'm currently learning Spring boot, Mockito and Microservices<br><br>👯‍♀️ I'm looking to collaborate on Java projects and blogs<br><br>🤔 I'm looking for help with Microservices<br><br>💬 Ask me about Java, Spring and hibernate<br><br>📫 How to reach me kartikkulkarni1411@gmail.com
+🧠 I'm currently learning Spring boot, Mockito and Microservices<br><br>👯‍♀️I'm looking to collaborate on Java projects and blogs<br><br>🤔 I'm looking for help with Microservices<br><br>💬 Ask me about Java, Spring and hibernate<br><br>📫 How to reach me kartikkulkarni1411@gmail.com
 ![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartik1502&theme=tokyonight)
 
 
@@ -18,7 +18,6 @@
 
 # 📊 What I did, till nw....
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kartik1502&theme=radical&hide_border=false)<br/>
-
 
 ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartik1502&show_icons=true&rank_icon=github&include_all_commits=true&theme=radical)
 
