@@ -19,9 +19,9 @@
 
 # 📊 What I did, till nw....
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kartik1502&theme=radical&hide_border=false)<br/>
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartik1502&show_icons=true&rank_icon=github)
+![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartik1502&show_icons=true&rank_icon=github&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik1502)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik1502&theme=tokyonight)
 
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
