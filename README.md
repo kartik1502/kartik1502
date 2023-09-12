@@ -18,7 +18,7 @@
 )  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
 
 # 📊 What I did, till nw....
-![](https://github-readme-streak-stats.herokuapp.com/?user=kartik1502&theme=tokyonight&hide_border=false)<br/>
+![Kartik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartik1502&theme=tokyonight&hide_border=false)<br/>
 ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartik1502&show_icons=true&rank_icon=github&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik1502&theme=tokyonight)
