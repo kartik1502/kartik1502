@@ -22,5 +22,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik1502&theme=tokyonight)
 
+# Badges
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=kartik1502)](https://holopin.io/@kartik1502)
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
