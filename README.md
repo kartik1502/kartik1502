@@ -29,6 +29,11 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+HTML   18 mins         ████████████████████▒░░░░   81.69 %
+Java   4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.31 %
+```
+
 <!--END_SECTION:waka-->
 ## GitHub Stats 📊
 ![Kartik's wakatime stats](https://github-readme-stats-kartik-kulkarnis-projects.vercel.app/api/wakatime?username=kartik1502&theme=radical)
