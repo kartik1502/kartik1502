@@ -21,6 +21,8 @@
 ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartik1502&show_icons=true&rank_icon=github&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik1502&theme=tokyonight)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 # Badges
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=kartik1502)](https://holopin.io/@kartik1502)
