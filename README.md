@@ -1,6 +1,6 @@
 
 <div style="background-color: #007acc; padding: 20px; text-align: center;">
-  <img src="https://raw.githubusercontent.com/kartik1502/kartik1502/main/assets/GitHub%20Banner.png" alt="Your Image Alt Text" width="1500" height="250">
+<!--   <img src="https://raw.githubusercontent.com/kartik1502/kartik1502/main/assets/GitHub%20Banner.png" alt="Your Image Alt Text" width="1500" height="250"> -->
 </div>
 <h1>Hi 👋, I'm Java Programmer!, a Backend developer and a tech enthusiast! 🫣</h1>
 <table style="border: none; width: 100%; border-collapse: collapse;">
@@ -18,9 +18,9 @@
         <a href="https://wa.me/6361921186"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
         <a href="https://hashnode.com/@KartiKulkarni"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a></p>
     </td>
-    <td style="border: none; padding: 0; vertical-align: top;" align="center">
-      <img src="https://raw.githubusercontent.com/kartik1502/kartik1502/main/assets/35496093_2211.w026.n002.2759B.p1.2759-removebg-preview.png" alt="Your Image Alt Text" height="400" width="3000">
-    </td>
+<!--     <td style="border: none; padding: 0; vertical-align: top;" align="center"> -->
+<!--       <img src="https://raw.githubusercontent.com/kartik1502/kartik1502/main/assets/35496093_2211.w026.n002.2759B.p1.2759-removebg-preview.png" alt="Your Image Alt Text" height="400" width="3000"> -->
+<!--     </td> -->
   </tr>
 </table>
 
