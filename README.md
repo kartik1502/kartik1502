@@ -1,4 +1,4 @@
-![Karthik's Intro](https://github.com/kartik1502/kartik1502/blob/main/assets/GitHubBanner.jpg)
+[![Git-Hub-Banner.jpg](https://i.postimg.cc/2jnSVN8Q/Git-Hub-Banner.jpg)](https://postimg.cc/MXKSF4BH)
 <div style="background-color: #007acc; padding: 20px; text-align: center;">
 <!--   <img src="https://raw.githubusercontent.com/kartik1502/kartik1502/main/assets/GitHub%20Banner.png" alt="Your Image Alt Text" width="1500" height="250"> -->
 </div>
