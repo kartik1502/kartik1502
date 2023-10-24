@@ -55,6 +55,9 @@ GitIgnore file   0 secs          ░░░░░░░░░░░░░░░�
 ## Badges🤩
 [![An image of @kartik1502's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartik1502)](https://holopin.io/@kartik1502)
 
+## Music😊
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ij0lfuk4uwf2o2971df6a33m2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=59b14e&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ij0lfuk4uwf2o2971df6a33m2&redirect=true)
+
 
 
 
