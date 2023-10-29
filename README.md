@@ -36,11 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         7 mins          ███████████████▓░░░░░░░░░   62.83 %
-YAML             3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
-Java             0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-GitIgnore file   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
