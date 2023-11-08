@@ -52,9 +52,10 @@ XML      0 secs          ▒░░░░░░░░░░░░░░░░░�
   <img height=200 align="center" src="https://github-readme-stats-kartik-kulkarnis-projects.vercel.app/api/top-langs?username=kartik1502&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
-## Latest Blogs 📝
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 
 ## Music😊
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ij0lfuk4uwf2o2971df6a33m2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=59b14e&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ij0lfuk4uwf2o2971df6a33m2&redirect=true)
