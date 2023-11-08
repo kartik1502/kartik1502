@@ -8,7 +8,10 @@ jobs:
     name: Update this repo's README with the latest hashnde blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
           feed_list: "https://devscribbles.hashnode.dev/rss.xml"
