@@ -54,6 +54,11 @@ XML      0 secs          ▒░░░░░░░░░░░░░░░░░�
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Building Spring boot Microservices Banking Application](https://devscribbles.hashnode.dev/building-spring-boot-microservices-banking-application)
+- [🌟 Demystifying Spring Boot Annotations 🌟](https://devscribbles.hashnode.dev/demystifying-spring-boot-annotations)
+- [Simplify Spring Boot Project Setup with STS: A Step-by-Step Guide](https://devscribbles.hashnode.dev/simplify-spring-boot-project-setup-with-sts-a-step-by-step-guide)
+- [Navigating the Layers: Exploring Spring Boot&#39;s Architecture for Modern Applications](https://devscribbles.hashnode.dev/navigating-the-layers-exploring-spring-boots-architecture-for-modern-applications)
+- [Spring vs. Spring Boot vs. Spring MVC: Unveiling the Java Framework Trio](https://devscribbles.hashnode.dev/spring-vs-spring-boot-vs-spring-mvc-unveiling-the-java-framework-trio)
 <!-- BLOG-POST-LIST:END -->
 
 
