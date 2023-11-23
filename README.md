@@ -57,7 +57,7 @@ No activity tracked
 - [🌟 Demystifying Spring Boot Annotations 🌟](https://devscribbles.hashnode.dev/demystifying-spring-boot-annotations)
 - [Simplify Spring Boot Project Setup with STS: A Step-by-Step Guide](https://devscribbles.hashnode.dev/simplify-spring-boot-project-setup-with-sts-a-step-by-step-guide)
 <!-- BLOG-POST-LIST:END -->
-
+[...more blogs](https://devscribbles.hashnode.dev)
 
 
 ## Music😊
