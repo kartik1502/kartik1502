@@ -51,11 +51,11 @@ No activity tracked
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Microservices: Authentication and Authorization with Keycloak](https://devscribbles.hashnode.dev/mastering-microservices-authentication-and-authorization-with-keycloak)
 - [Mastering Microservices: Setting API Gateway with Spring Cloud Gateway](https://devscribbles.hashnode.dev/mastering-microservices-setting-api-gateway-with-spring-cloud-gateway)
 - [Mastering Microservices: A Deep Dive into Spring Cloud Netflix Eureka for Seamless Service Registration and Discovery](https://devscribbles.hashnode.dev/mastering-microservices-a-deep-dive-into-spring-cloud-netflix-eureka-for-seamless-service-registration-and-discovery)
 - [Building Spring boot Microservices Banking Application](https://devscribbles.hashnode.dev/building-spring-boot-microservices-banking-application)
 - [🌟 Demystifying Spring Boot Annotations 🌟](https://devscribbles.hashnode.dev/demystifying-spring-boot-annotations)
-- [Simplify Spring Boot Project Setup with STS: A Step-by-Step Guide](https://devscribbles.hashnode.dev/simplify-spring-boot-project-setup-with-sts-a-step-by-step-guide)
 <!-- BLOG-POST-LIST:END -->
 [...more blogs](https://devscribbles.hashnode.dev)
 
