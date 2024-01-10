@@ -53,6 +53,7 @@ Properties       1 min           ░░░░░░░░░░░░░░░�
   <img height=200 align="center" src="https://github-readme-stats-kartik-kulkarnis-projects.vercel.app/api/top-langs?username=kartik1502&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
+
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Mastering Microservices: Implemenatation of Fund Transfer Service](https://devscribbles.hashnode.dev/mastering-microservices-implemenatation-of-fund-transfer-service)
@@ -63,6 +64,14 @@ Properties       1 min           ░░░░░░░░░░░░░░░�
 <!-- BLOG-POST-LIST:END -->
 [...more blogs](https://devscribbles.hashnode.dev)
 
+## Projects
+
+<a href="https://github.com/kartik1502/Spring-Boot-Microservices-Banking-Application">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kartik1502&repo=Spring-Boot-Microservices-Banking-Application&theme=radical" />
+</a>
+<a href="https://github.com/kartik1502/Online-Store-Management-System">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kartik1502&repo=Online-Store-Management-System&card_width=320&theme=radical" />
+</a>
 
 ## Music😊
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ij0lfuk4uwf2o2971df6a33m2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=59b14e&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ij0lfuk4uwf2o2971df6a33m2&redirect=true)
