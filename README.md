@@ -24,6 +24,7 @@
 <a href="https://linkedin.com/in/karthik-kulkarni-ka1411/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
 <a href="mailto:kartikkulkarni1411@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://wa.me/6361921186"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://twitter.com/Kartik1141"><img src="https://img.shields.io/badge/X-2962FF?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
 <a href="https://hashnode.com/@KartiKulkarni"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
 <a href="https://www.salesforce.com/trailblazer/karthikk14"><img src="https://img.shields.io/badge/Trailblazer-2962FF?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailblazer"></a>
 
