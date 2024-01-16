@@ -57,11 +57,11 @@ HTTP Request          0 secs          ░░░░░░░░░░░░░░
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Tutorial: Spring Cloud Feign Client](https://devscribbles.hashnode.dev/spring-boot-tutorial-spring-cloud-feign-client)
 - [Mastering Microservices: Implemenatation of Transaction Service](https://devscribbles.hashnode.dev/mastering-microservices-implemenatation-of-transaction-service)
 - [Mastering Microservices: Implemenatation of Fund Transfer Service](https://devscribbles.hashnode.dev/mastering-microservices-implemenatation-of-fund-transfer-service)
 - [Mastering Microservices: Implemenatation of Account Service](https://devscribbles.hashnode.dev/mastering-microservices-implemenatation-of-account-service)
 - [Mastering Microservices: Implemenatation of User Service](https://devscribbles.hashnode.dev/mastering-microservices-implemenatation-of-user-service)
-- [Mastering Microservices: Authentication and Authorization with Keycloak](https://devscribbles.hashnode.dev/mastering-microservices-authentication-and-authorization-with-keycloak)
 <!-- BLOG-POST-LIST:END -->
 [...more blogs](https://devscribbles.hashnode.dev)
 
