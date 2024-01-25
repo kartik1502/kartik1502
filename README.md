@@ -53,11 +53,11 @@ Java   23 mins         ███████████████████
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Microservices: Inter - Service Communication using Spring Cloud Feign Client  Part- 2](https://devscribbles.hashnode.dev/mastering-microservices-inter-service-communication-using-spring-cloud-feign-client-part-2)
 - [Mastering Microservices: Implementation of Sequence Generator](https://devscribbles.hashnode.dev/mastering-microservices-implementation-of-sequence-generator)
 - [Mastering Microservices: Inter - Service Communication using Spring Cloud Feign Client  Part- 1](https://devscribbles.hashnode.dev/mastering-microservices-inter-service-communication-using-spring-cloud-feign-client-part-1)
 - [Spring Boot Tutorial: Spring Cloud Feign Client](https://devscribbles.hashnode.dev/spring-boot-tutorial-spring-cloud-feign-client)
 - [Mastering Microservices: Implemenatation of Transaction Service](https://devscribbles.hashnode.dev/mastering-microservices-implemenatation-of-transaction-service)
-- [Mastering Microservices: Implemenatation of Fund Transfer Service](https://devscribbles.hashnode.dev/mastering-microservices-implemenatation-of-fund-transfer-service)
 <!-- BLOG-POST-LIST:END -->
 [...more blogs](https://devscribbles.hashnode.dev)
 
