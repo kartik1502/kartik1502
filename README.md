@@ -53,11 +53,11 @@ No activity tracked
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Microservices: Inter - Service Communication using Spring Cloud Feign Client  Part- 4](https://devscribbles.hashnode.dev/mastering-microservices-inter-service-communication-using-spring-cloud-feign-client-part-4)
 - [Mastering Microservices: Inter - Service Communication using Spring Cloud Feign Client  Part- 3](https://devscribbles.hashnode.dev/mastering-microservices-inter-service-communication-using-spring-cloud-feign-client-part-3)
 - [Mastering Microservices: Inter - Service Communication using Spring Cloud Feign Client  Part- 2](https://devscribbles.hashnode.dev/mastering-microservices-inter-service-communication-using-spring-cloud-feign-client-part-2)
 - [Mastering Microservices: Implementation of Sequence Generator](https://devscribbles.hashnode.dev/mastering-microservices-implementation-of-sequence-generator)
 - [Mastering Microservices: Inter - Service Communication using Spring Cloud Feign Client  Part- 1](https://devscribbles.hashnode.dev/mastering-microservices-inter-service-communication-using-spring-cloud-feign-client-part-1)
-- [Spring Boot Tutorial: Spring Cloud Feign Client](https://devscribbles.hashnode.dev/spring-boot-tutorial-spring-cloud-feign-client)
 <!-- BLOG-POST-LIST:END -->
 [...more blogs](https://devscribbles.hashnode.dev)
 
