@@ -57,11 +57,11 @@ CSV/TSV          0 secs          ░░░░░░░░░░░░░░░�
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Tutorial: Spring Batch](https://devscribbles.hashnode.dev/spring-boot-tutorial-spring-batch)
 - [Mastering Microservices: Inter - Service Communication using Spring Cloud Feign Client  Part- 4](https://devscribbles.hashnode.dev/mastering-microservices-inter-service-communication-using-spring-cloud-feign-client-part-4)
 - [Mastering Microservices: Inter - Service Communication using Spring Cloud Feign Client  Part- 3](https://devscribbles.hashnode.dev/mastering-microservices-inter-service-communication-using-spring-cloud-feign-client-part-3)
 - [Mastering Microservices: Inter - Service Communication using Spring Cloud Feign Client  Part- 2](https://devscribbles.hashnode.dev/mastering-microservices-inter-service-communication-using-spring-cloud-feign-client-part-2)
 - [Mastering Microservices: Implementation of Sequence Generator](https://devscribbles.hashnode.dev/mastering-microservices-implementation-of-sequence-generator)
-- [Mastering Microservices: Inter - Service Communication using Spring Cloud Feign Client  Part- 1](https://devscribbles.hashnode.dev/mastering-microservices-inter-service-communication-using-spring-cloud-feign-client-part-1)
 <!-- BLOG-POST-LIST:END -->
 [...more blogs](https://devscribbles.hashnode.dev)
 
