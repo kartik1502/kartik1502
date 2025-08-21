@@ -45,7 +45,7 @@ XML    9 mins          ███░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-kartik-kulkarnis-projects.vercel.app/api?username=kartik1502&theme=radical&show_icons=true&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats-kartik-kulkarnis-projects.vercel.app/api?username=kartik1502&theme=radical&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-kartik-kulkarnis-projects.vercel.app/api/top-langs?username=kartik1502&layout=compact&langs_count=8&card_width=320&theme=radical" />
