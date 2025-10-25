@@ -37,7 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java          39 mins         ██████████████████▓░░░░░░   74.59 %
+JSON          10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.74 %
+XML           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Avro Schema   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+YAML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
