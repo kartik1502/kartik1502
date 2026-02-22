@@ -37,11 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML             42 mins               ██████████████████▓░░░░░░   74.29 %
-Terraform        6 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
-Java             6 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-XML              1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-textmate         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
