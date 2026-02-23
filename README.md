@@ -37,7 +37,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+textmate   0 secs                ████████████████████░░░░░   80.08 %
+Java       0 secs                ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+YAML       0 secs                ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
 ```
 
 <!--END_SECTION:waka-->
