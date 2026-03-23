@@ -37,11 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                2 hrs 35 mins         ████████████████▓░░░░░░░░   66.53 %
-Java                32 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-XML                 13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-Makefile            13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-textmate            5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
