@@ -37,7 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java                42 mins               █████████▓░░░░░░░░░░░░░░░   39.08 %
+YAML                40 mins               █████████▒░░░░░░░░░░░░░░░   37.24 %
+Makefile            16 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
+GitIgnore file      4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Docker              3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
 ```
 
 <!--END_SECTION:waka-->
