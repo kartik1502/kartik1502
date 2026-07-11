@@ -5,11 +5,11 @@
 </div>
 <h1>Hi 👋, I'm Java Programmer!, a Backend developer and a tech enthusiast! 🫣</h1>
 
-- 🔭 I’m currently working on **Spring boot - Microservices Projects**
+- 🔭 I’m currently working on **[Arya Banking](https://github.com/Event-Based-Banking-Application)** — event-driven microservices platform
 
 - 🌱 I’m currently learning **Spring boot and Microservices**
 
-- 👯 I’m looking to collaborate on [Microservices Banking Application](https://github.com/kartik1502/Spring-Boot-Microservices-Banking-Application)
+- 👯 I’m looking to collaborate on [Event-Based Banking Application](https://github.com/Event-Based-Banking-Application)
 
 - 🤝 I’m looking for help with **Microservices, Apache Kafka**
 
@@ -66,6 +66,9 @@ Makefile            8 mins                █▒░░░░░░░░░░�
 
 ## Projects
 
+<a href="https://github.com/Event-Based-Banking-Application">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Event-Based-Banking-Application&repo=arya-banking&theme=radical" />
+</a>
 <a href="https://github.com/kartik1502/Spring-Boot-Microservices-Banking-Application">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kartik1502&repo=Spring-Boot-Microservices-Banking-Application&theme=radical" />
 </a>
