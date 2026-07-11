@@ -106,7 +106,4 @@ Makefile            8 mins                █▒░░░░░░░░░░�
   <a href="https://github.com/kartik1502/Spring-Boot-Microservices-Banking-Application">
     <img height=140 src="https://github-readme-stats-kartik-kulkarnis-projects.vercel.app/api/pin/?username=kartik1502&repo=Spring-Boot-Microservices-Banking-Application&theme=radical" />
   </a>
-  <a href="https://github.com/kartik1502/Online-Store-Management-System">
-    <img height=140 src="https://github-readme-stats-kartik-kulkarnis-projects.vercel.app/api/pin/?username=kartik1502&repo=Online-Store-Management-System&theme=radical" />
-  </a>
 </p>
