@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently working on **[Arya Banking](https://github.com/Event-Based-Banking-Application)** — event-driven microservices platform
 
-- 🌱 I’m currently learning **Spring boot and Microservices**
-
-- 👯 I’m looking to collaborate on [Event-Based Banking Application](https://github.com/Event-Based-Banking-Application)
-
 - 🤝 I’m looking for help with **Microservices, Apache Kafka**
 
 - 💬 Ask me about **Java, Java 8, Hibernate, Sprint boot, JUnit, Postman..,,,**
