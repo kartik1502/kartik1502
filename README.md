@@ -101,12 +101,12 @@ Makefile            8 mins                █▒░░░░░░░░░░�
 
 <p align="center">
   <a href="https://github.com/Event-Based-Banking-Application">
-    <img height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=Event-Based-Banking-Application&repo=arya-banking&theme=radical" />
+    <img height=140 src="https://github-readme-stats-kartik-kulkarnis-projects.vercel.app/api/pin/?username=Event-Based-Banking-Application&repo=arya-banking&theme=radical&show_owner=true" />
   </a>
   <a href="https://github.com/kartik1502/Spring-Boot-Microservices-Banking-Application">
-    <img height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=kartik1502&repo=Spring-Boot-Microservices-Banking-Application&theme=radical" />
+    <img height=140 src="https://github-readme-stats-kartik-kulkarnis-projects.vercel.app/api/pin/?username=kartik1502&repo=Spring-Boot-Microservices-Banking-Application&theme=radical" />
   </a>
   <a href="https://github.com/kartik1502/Online-Store-Management-System">
-    <img height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=kartik1502&repo=Online-Store-Management-System&theme=radical" />
+    <img height=140 src="https://github-readme-stats-kartik-kulkarnis-projects.vercel.app/api/pin/?username=kartik1502&repo=Online-Store-Management-System&theme=radical" />
   </a>
 </p>
