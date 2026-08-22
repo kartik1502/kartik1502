@@ -74,7 +74,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             2 hrs 27 mins         ███████████▓░░░░░░░░░░░░░   46.91 %
+YAML             38 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+JSON             30 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+PowerShell       29 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+AvroIDL          23 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
 ```
 
 <!--END_SECTION:waka-->
