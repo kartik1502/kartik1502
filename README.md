@@ -74,10 +74,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java      1 hr 26 mins          ████████████████▒░░░░░░░░   64.68 %
-XML       47 mins               ████████▓░░░░░░░░░░░░░░░░   35.23 %
-AvroIDL   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-YAML      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
