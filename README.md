@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kartik1502.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-4da3ff?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://kartik1502.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-2563eb?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/karthikulkarni/"><img src="https://img.shields.io/badge/LinkedIn-Karthik_Kulkarni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kartikkulkarni1411@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
