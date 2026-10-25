@@ -13,7 +13,7 @@ idempotency, reconciliation, and event-driven design.
 
 ### Arya Banking — event-driven banking platform
 
-6 Spring Boot services with Kafka, a transactional outbox, Avro schemas, Keycloak, Vault, and MongoDB.
+18 public repositories around 6 Spring Boot services with Kafka, a transactional outbox, Avro schemas, Keycloak, Vault, and MongoDB.
 Includes a shared library, a BOM, and 104 pages of architecture documentation.
 
 [Docs](https://event-based-banking-application.github.io/arya-banking/) · [Code](https://github.com/Event-Based-Banking-Application) · [System architecture](https://event-based-banking-application.github.io/arya-banking/docs/system/system-architecture/)
