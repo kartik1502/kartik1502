@@ -1,7 +1,7 @@
 # Karthik Kulkarni
 
-Backend engineer building payment and banking systems. I work on correctness under failure:
-idempotency, ledgers, reconciliation, and event-driven services.
+Backend engineer building payment and banking systems. I focus on correctness under failure:
+idempotency, reconciliation, and event-driven design.
 
 **Currently:** APAC Payment Acceptance at Citi (via HCLTech) · Bengaluru
 
@@ -34,7 +34,7 @@ Includes a shared library, a BOM, and 104 pages of architecture documentation.
 
 ## Fintech depth
 
-Idempotency · double-entry ledger · reconciliation · transactional outbox · Kafka ordering · Keycloak/Vault · failure testing
+Idempotency · reconciliation · transactional outbox · Kafka ordering · Keycloak/Vault · failure handling
 
 ## Writing
 
