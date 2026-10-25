@@ -21,7 +21,7 @@ Includes a shared library, a BOM, and 104 pages of architecture documentation.
 ### Spring Boot Microservices Banking
 
 5-service banking application with Eureka, Spring Cloud Gateway, Keycloak, and MySQL.
-254 stars, 190 forks. This is a learning project; Arya Banking is the event-driven platform.
+250+ stars, 180+ forks. This is a learning project; Arya Banking is the event-driven platform.
 
 [Code](https://github.com/kartik1502/Spring-Boot-Microservices-Banking-Application)
 
